@@ -20,3 +20,14 @@
 ### Other Achievements
 - [Codingal - Gad Ishimwe](https://github.com/gadishiimwe/certificates/blob/main/Gad%20Ishimwe%20Codingal.pdf)
 - [EdHeroes Global Forum 2024](https://github.com/gadishiimwe/certificates/blob/main/Certificate_of_EdHeroes_Global_Forum2024.pdf)
+
+
+---
+
+## Developer
+
+This project was developed and is maintained by **Gad Ishimwe**, a Full-Stack Developer based in Rwanda.
+
+- **Portfolio:** https://gadishimwe.vercel.app
+- **GitHub:** https://github.com/gadishiimwe
+- **LinkedIn:** https://www.linkedin.com/in/gad-ishimwe/
